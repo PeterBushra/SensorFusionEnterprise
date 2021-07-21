@@ -1,0 +1,3 @@
+/media/peter/01D59C0D0170B850/Practicing/Sensor Fusion Engineer/Lidar/Simulator/SFND_Lidar_Obstacle_Detection/Build/CMakeFiles/rebuild_cache.dir
+/media/peter/01D59C0D0170B850/Practicing/Sensor Fusion Engineer/Lidar/Simulator/SFND_Lidar_Obstacle_Detection/Build/CMakeFiles/environment.dir
+/media/peter/01D59C0D0170B850/Practicing/Sensor Fusion Engineer/Lidar/Simulator/SFND_Lidar_Obstacle_Detection/Build/CMakeFiles/edit_cache.dir
