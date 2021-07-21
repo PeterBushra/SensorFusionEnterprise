@@ -1,0 +1,7 @@
+data buffer:
+	i'm understood the concept from "the Data Buffer" video then, implement it;
+all other rubric: 
+	from previous video in course .
+in report :
+	i was looping for all [detectors,descriptors,matcher,selector] and record all
+	result in file then compared;
